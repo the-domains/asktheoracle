@@ -4,14 +4,14 @@
         <description><![CDATA[AskTheOracle]]></description>
         <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 16:27:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>more disks. Which files are on which disk is not really relevant to our discussion - storage may be virtualised or may be managed by a special type of Oracle instance called ASM (Automatic Storage Management). The disks may also be formatted with a flie system or may be just raw devices (on Unix/Linux systems).</p>]]></description>
+            <description><![CDATA[<p>In an Oracle database all data is ultimately stored in files on one or more disks. Which files are on which disk is not really relevant to our discussion - storage may be virtualised or may be managed by a special type of Oracle instance called ASM (Automatic Storage Management). The disks may also be formatted with a flie system or may be just raw devices (on Unix/Linux systems).</p>]]></description>
             <link>https://thegrid.ai/asktheoracle/33b50309-38ef-4983-8071-8e9c47b3d48a/index.html</link>
             <guid isPermaLink="false">33b50309-38ef-4983-8071-8e9c47b3d48a</guid>
-            <pubDate>Tue, 26 Apr 2016 16:24:46 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 16:27:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
