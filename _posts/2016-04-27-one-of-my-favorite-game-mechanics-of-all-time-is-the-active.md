@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' One of my favorite game mechanics of all-time is the active reload system from'
-datePublished: '2016-04-27T11:50:31.968Z'
-dateModified: '2016-04-27T11:50:19.141Z'
+datePublished: '2016-04-27T16:00:49.311Z'
+dateModified: '2016-04-27T16:00:37.766Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-one-of-my-favorite-game-mechanics-of-all-time-is-the-active.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-one-of-my-favorite-game-mechanics-of-all-time-is-the-active.md
-published: true
 url: one-of-my-favorite-game-mechanics-of-all-time-is-the-active/index.html
 _type: Article
 
