@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AskTheOracle]]></title>
         <description><![CDATA[AskTheOracle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 11:50:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 16:01:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Save Systems]]></title>
             <description><![CDATA[<p> One of my favorite game mechanics of all-time is the active reload system from</p>]]></description>
-            <link>undefinedone-of-my-favorite-game-mechanics-of-all-time-is-the-active/index.html</link>
+            <link>https://thegrid.ai/asktheoracle/one-of-my-favorite-game-mechanics-of-all-time-is-the-active/index.html</link>
             <guid isPermaLink="false">058226e5-afa8-4e1e-84d0-c8b47807e04b</guid>
-            <pubDate>Wed, 27 Apr 2016 11:50:31 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 16:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
