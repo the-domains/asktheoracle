@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AskTheOracle]]></title>
+        <description><![CDATA[AskTheOracle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 11:50:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> One of my favorite game mechanics of all-time is the active reload system from</p>]]></description>
+            <link>undefinedone-of-my-favorite-game-mechanics-of-all-time-is-the-active/index.html</link>
+            <guid isPermaLink="false">058226e5-afa8-4e1e-84d0-c8b47807e04b</guid>
+            <pubDate>Wed, 27 Apr 2016 11:50:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
