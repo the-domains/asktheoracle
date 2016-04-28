@@ -4,8 +4,15 @@
         <description><![CDATA[AskTheOracle]]></description>
         <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 10:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 10:18:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Multi Level PL/SQL Collections]]></title>
+            <description><![CDATA[<article><h1>Multi Level PL/SQL Collections</h1><h2>2 Dimensional PL/SQL Collection of an Associative Array of Nested Tables</h2><p>PL/SQL collections are very useful for modeling more complex or sophisticated data types such as the array, table or set types that exist in other languages. We've seen in previous tutorials that Oracle has 3 types of collections in PL/SQL</p></article>]]></description>
+            <link>https://thegrid.ai/asktheoracle/multi-level-plsql-collections/index.html</link>
+            <guid isPermaLink="false">db4516f3-c874-422e-b0da-1e7f0652ce6d</guid>
+            <pubDate>Thu, 28 Apr 2016 10:18:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sql]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c8ac82e-c9b6-4f30-a903-c1d89270cc42.jpg" alt="" title="">]]></description>
