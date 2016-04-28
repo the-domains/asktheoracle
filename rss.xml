@@ -4,21 +4,21 @@
         <description><![CDATA[AskTheOracle]]></description>
         <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 08:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 09:45:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Multi Level PL/SQL Collections ]]></title>
+            <description><![CDATA[<article><h1>Multi Level PL/SQL Collections </h1><p>PL/SQL collections are very useful for modeling more complex or sophisticated data types such as the array, table or set types that exist in other languages. We've seen in previous tutorials that Oracle has 3 types of collections in PL/SQL</p></article>]]></description>
+            <link>https://thegrid.ai/asktheoracle/one-of-my-favorite-game-mechanics-of-all-time-is-the-active/index.html</link>
+            <guid isPermaLink="false">058226e5-afa8-4e1e-84d0-c8b47807e04b</guid>
+            <pubDate>Thu, 28 Apr 2016 09:45:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sql]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c8ac82e-c9b6-4f30-a903-c1d89270cc42.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/asktheoracle/sql/index.html</link>
             <guid isPermaLink="false">fb7dce52-ceba-4f76-985a-54681e600612</guid>
             <pubDate>Thu, 28 Apr 2016 08:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Save Systems]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c56e3efc-7057-4bcb-8dfd-d18220a0678e.jpg">]]></description>
-            <link>https://thegrid.ai/asktheoracle/one-of-my-favorite-game-mechanics-of-all-time-is-the-active/index.html</link>
-            <guid isPermaLink="false">058226e5-afa8-4e1e-84d0-c8b47807e04b</guid>
-            <pubDate>Wed, 27 Apr 2016 16:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
