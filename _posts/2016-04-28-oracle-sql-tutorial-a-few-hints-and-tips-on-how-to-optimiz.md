@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "This Oracle SQL tutorial started as a list of SQL tuning tips but that's of limited use on its own so we've expanded the tips to explain how and why they work to make this a more complete Oracle SQL tutorial."
-datePublished: '2016-04-28T11:47:43.958Z'
-dateModified: '2016-04-28T11:47:06.368Z'
+datePublished: '2016-04-28T13:03:35.967Z'
+dateModified: '2016-04-28T11:47:48.965Z'
 title: Oracle SQL Tutorial - A Few Hints And Tips On How To Optimize Your SQL
 author: []
 sourcePath: _posts/2016-04-28-oracle-sql-tutorial-a-few-hints-and-tips-on-how-to-optimiz.md
