@@ -4,8 +4,15 @@
         <description><![CDATA[AskTheOracle]]></description>
         <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 13:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 16:41:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PL/SQL Collections of Records ]]></title>
+            <description><![CDATA[<article><h1>PL/SQL Collections of Records </h1><h2>Example 1: Defining and Using a PL/SQL record structure</h2><p>PL/SQL collections can be very useful for modeling more complex or sophisticated data types such as the array, table or set types that exist in other languages and Oracle PL/SQL provides us with 3 types of collections:</p></article>]]></description>
+            <link>https://thegrid.ai/asktheoracle/plsql-collections-of-records/index.html</link>
+            <guid isPermaLink="false">9159b29e-b46d-4c2b-817e-e1d7a5e72f19</guid>
+            <pubDate>Thu, 28 Apr 2016 16:37:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oracle SQL Tutorial - A Few Hints And Tips On How To Optimize Your SQL]]></title>
             <description><![CDATA[<article><h1>Oracle SQL Tutorial - A Few Hints And Tips On How To Optimize Your SQL</h1><h2>Use Views</h2><p>This Oracle SQL tutorial started as a list of SQL tuning tips but that's of limited use on its own so we've expanded the tips to explain how and why they work to make this a more complete Oracle SQL tutorial.</p></article>]]></description>
