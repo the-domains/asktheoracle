@@ -4,8 +4,15 @@
         <description><![CDATA[AskTheOracle]]></description>
         <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 11:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 11:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is PL/SQL?]]></title>
+            <description><![CDATA[<article><h1>What is PL/SQL?</h1><p>This is the first PL/SQL tutorial in the series and provides an overview of the language and its capabilities as well as links to enable you to explore further.</p></article>]]></description>
+            <link>https://thegrid.ai/asktheoracle/what-is-plsql/index.html</link>
+            <guid isPermaLink="false">2d5b31bf-d070-4e2b-8452-70313bd38211</guid>
+            <pubDate>Thu, 28 Apr 2016 11:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Multi Level PL/SQL Collections]]></title>
             <description><![CDATA[<article><h1>Multi Level PL/SQL Collections</h1><h2>2 Dimensional PL/SQL Collection of an Associative Array of Nested Tables</h2><p>PL/SQL collections are very useful for modeling more complex or sophisticated data types such as the array, table or set types that exist in other languages. We've seen in previous tutorials that Oracle has 3 types of collections in PL/SQL</p></article>]]></description>
