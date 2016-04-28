@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is the first PL/SQL tutorial in the series and provides an overview of the language and its capabilities as well as links to enable you to explore further.
-datePublished: '2016-04-28T11:15:00.185Z'
-dateModified: '2016-04-28T11:14:42.825Z'
+datePublished: '2016-04-28T11:18:54.122Z'
+dateModified: '2016-04-28T11:18:45.174Z'
 title: What is PL/SQL?
 author: []
+sourcePath: _posts/2016-04-28-what-is-plsql.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-what-is-plsql.md
-published: true
 url: what-is-plsql/index.html
 _type: Article
 
@@ -36,8 +36,6 @@ In this tutorial we'll answer the following questions:
 ## What is PL/SQL?
 
 Learn the fundamentals of PL/SQL in our short video which shows you how to write a program to display "Hello World" in about 30 seconds!
-
-https://www.youtube.com/watch?feature=player\_embedded&v=iY-X5O1ellQ
 
 PL/SQL is Oracle's proprietary,
 
