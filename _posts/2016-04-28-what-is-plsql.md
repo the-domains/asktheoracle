@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is the first PL/SQL tutorial in the series and provides an overview of the language and its capabilities as well as links to enable you to explore further.
-datePublished: '2016-04-28T11:18:54.122Z'
-dateModified: '2016-04-28T11:18:45.174Z'
+datePublished: '2016-04-28T11:47:59.214Z'
+dateModified: '2016-04-28T11:19:29.382Z'
 title: What is PL/SQL?
 author: []
 sourcePath: _posts/2016-04-28-what-is-plsql.md
@@ -22,8 +22,6 @@ url: what-is-plsql/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e463920b-d332-4062-b842-4f10a45670b7.jpg)
-
 # Oracle PL/SQLTutorial -A Whistle Stop Tour
 
 This is the first PL/SQL tutorial in the series and provides an overview of the language and its capabilities as well as links to enable you to explore further.
@@ -32,6 +30,7 @@ In this tutorial we'll answer the following questions:
 
 * what is PL/SQL? 
 * What can it do?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e463920b-d332-4062-b842-4f10a45670b7.jpg)
 
 ## What is PL/SQL?
 
