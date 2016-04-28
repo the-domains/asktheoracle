@@ -1,6 +1,6 @@
 name: AskTheOracle
 favicon: null
-layout_spectrum: 0.24609
+layout_spectrum: 0.75652
 typography_spectrum: 0.2485
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#403f8f'
     - '#a4a3ce'
     - '#6d6c99'
-  brandStrength: 0
+  brandStrength: 0.375
   lightness: 0.5
-  saturation: 0.4473472668323666
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
