@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "This Oracle SQL tutorial started as a list of SQL tuning tips but that's of limited use on its own so we've expanded the tips to explain how and why they work to make this a more complete Oracle SQL tutorial."
-datePublished: '2016-04-28T11:17:27.210Z'
-dateModified: '2016-04-28T11:17:26.707Z'
+datePublished: '2016-04-28T11:47:43.958Z'
+dateModified: '2016-04-28T11:47:06.368Z'
 title: Oracle SQL Tutorial - A Few Hints And Tips On How To Optimize Your SQL
 author: []
+sourcePath: _posts/2016-04-28-oracle-sql-tutorial-a-few-hints-and-tips-on-how-to-optimiz.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-oracle-sql-tutorial-a-few-hints-and-tips-on-how-to-optimiz.md
-published: true
 url: oracle-sql-tutorial-a-few-hints-and-tips-on-how-to-optimiz/index.html
 _type: Article
 
@@ -40,9 +40,7 @@ One way to ensure that queries are the same is to use views. Views are merely pr
 
 ## Materialized Views
 
-In Oracle 8i and above there is a special type of view called a
-
-materialized view.
+In Oracle 8i and above there is a special type of view called a materialized view.
 
 This takes the concept of a view one stage further: - instead of just storing the SQL statement underlying the view, the results of the query are stored, hence the view is said to be materialized. This doesn't just eliminate the relatively small parsing overhead it eliminates completely the overhead from running the query as well.
 
@@ -60,9 +58,7 @@ Although not strictly useful for improving performance (which is the main subjec
 
 The use of this type of view would not probably not help run-time performance - they are more useful for application developers to avoid having to map objects onto relational data. One potential disadvantage of object views is that they can only be updated via
 
-instead-of
-
-triggers (which fire instead of normal update, delete or insert operations - hence the name) or via direct calls to PL/SQL procedures.
+instead-of triggers (which fire instead of normal update, delete or insert operations - hence the name) or via direct calls to PL/SQL procedures.
 
 The next part of this Oracle SQL tutorial looks at how you can use PL/SQL to improve performance.[Oracle SQL tutorial part 2: using stored procedures][2]
 
