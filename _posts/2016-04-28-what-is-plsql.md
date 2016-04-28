@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is the first PL/SQL tutorial in the series and provides an overview of the language and its capabilities as well as links to enable you to explore further.
-datePublished: '2016-04-28T11:47:59.214Z'
-dateModified: '2016-04-28T11:19:29.382Z'
+datePublished: '2016-04-28T12:04:50.268Z'
+dateModified: '2016-04-28T12:04:38.155Z'
 title: What is PL/SQL?
 author: []
 sourcePath: _posts/2016-04-28-what-is-plsql.md
@@ -30,7 +30,6 @@ In this tutorial we'll answer the following questions:
 
 * what is PL/SQL? 
 * What can it do?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e463920b-d332-4062-b842-4f10a45670b7.jpg)
 
 ## What is PL/SQL?
 
@@ -44,9 +43,9 @@ The procedural part is important - the language provides you with all the things
 
 Overall PL/SQL is a high-level language very similar to Pascal and ADA (from which it is derived). As Pascal was designed as a teaching language, this makes it easy to learn and to use and it promotes good programming practice. Although it is still possible to write bad code you just have to try that bit harder to do so!
 
-# Oracle Tips & Tricks to SKYROCKET Your Career!
+Oracle Tips & Tricks to SKYROCKET Your Career!
 
-# If you're not already a subscriber to our newsletteryou're missing out on myriad of tips and techniques to help you become a better, faster, smarter developer. [Subscribe now][0] and ignite your career
+**If you're not already a subscriber to our newsletter you're missing out on myriad of tips and techniques to help you become a better, faster, smarter developer. [Subscribe now][0] and ignite your career**
 
 PL/SQL has been described as the poor man's object-oriented language, but that was harsh even before the specific object-oriented features were added in Oracle8\. It is a very powerful and flexible language which, whilst not strictly object-oriented like Java, still has some o-o features, such as encapsulation, data hiding, inheritance, object types etc.
 
@@ -62,7 +61,7 @@ You can also use it to write complete programs to implement business logic, furt
 
 Stored procedures can be invoked from SQL, or other languages such as Java, C, FORTRAN or Visual Basic (these topics are outside the scope of this PL/SQL tutorial).
 
-In short there is little that you can't do - as long as you don't need fancy i/o or file handling features. The only language element for displaying information directly to the end-user is the DBMS\_OUTPUT package, whilst the (limited) file handling capabilities are provided by the UTL\_FILE package. 
+In short there is little that you can't do - as long as you don't need fancy i/o or file handling features. The only language element for displaying information directly to the end-user is the DBMS\_OUTPUT package, whilst the (limited) file handling capabilities are provided by the UTL\_FILE package. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88e35de-c406-4335-b119-c71279fc6e5c.jpg)
 
 That was just a brief overview of the language - this PL/SQL tutorial continues with 
 
