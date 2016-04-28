@@ -5,16 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "This series of Oracle tutorials will look at the use of sub-queries (non-correlated and correlated), views (join views, in-line views), joins (inner joins, outer joins, non-equi-joins and cross joins), and finally we'll look at the performance implications of various types of sql statements and how to ensure we don't inadvertently cause poor performance."
-datePublished: '2016-04-28T12:08:30.941Z'
-dateModified: '2016-04-28T12:07:32.663Z'
+datePublished: '2016-04-28T12:18:43.707Z'
+dateModified: '2016-04-28T12:18:33.629Z'
 title: Advanced Oracle Tutorials - Go From Beginner To Expert With Real-World Examples
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: false
 sourcePath: _posts/2016-04-28-advanced-oracle-tutorials-go-from-beginner-to-expert-with.md
 published: true
@@ -42,7 +42,7 @@ author
 
 which links the author's names to his or her id.
 
-These two tables would be defined as follows:  
+These two tables would be defined as follows:
 
 CREATE TABLE author
 
@@ -52,7 +52,7 @@ CREATE TABLE author
 
 );
 
-and  
+and
 
 CREATE TABLE Oracle\_tutorial  
 (tutorial\_id NUMBER PRIMARY KEY  
@@ -177,23 +177,20 @@ WHERE end\_date \> '01-JAN-2009'))
 
 Any of the other comparison operators instead of '=' or 'IN' such as '
 
-The[next][1]in our series of Oracle tutorials will look at using sub-queries in the from clause and correlated sub-queries.  
-Follow this link to learn about the various types of[SQL joins][2].
+The [next][1] in our series of Oracle tutorials will look at using sub-queries in the from clause and correlated sub-queries.  
+Follow this link to learn about the various types of [SQL joins][2].
 
 ## Looking for instructor-led Oracle training?
 
-[Learn Oracle][3]
+[Learn Oracle ][3]with Smartsoft to advance your skills and sky rocket your career.
 
-with Smartsoft to advance your skills and sky rocket your career.
+[Return][4] from advanced Oracle tutorials to asktheoracle.net home page
 
-Return
-
-[][4][][4]
-
-from advanced Oracle tutorials to asktheoracle.net home page
+[][5][][5]
 
 [0]: http://www.asktheoracle.net/oracle-tips-signup.html
 [1]: http://www.asktheoracle.net/oracle-tutorials-advanced-2.html
 [2]: http://www.asktheoracle.net/oracle-sql-joins.html
 [3]: http://www.smart-soft.co.uk/oracle-and-unix-training.htm
-[4]: http://www.asktheoracle.net/index.html
+[4]: http://www.asktheoracle.net/
+[5]: http://www.asktheoracle.net/index.html
