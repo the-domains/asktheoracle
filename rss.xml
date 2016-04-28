@@ -4,8 +4,15 @@
         <description><![CDATA[AskTheOracle]]></description>
         <link>https://thegrid.ai/asktheoracle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 11:17:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asktheoracle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oracle SQL Tutorial - A Few Hints And Tips On How To Optimize Your SQL]]></title>
+            <description><![CDATA[<article><h1>Oracle SQL Tutorial - A Few Hints And Tips On How To Optimize Your SQL</h1><h2>Use Views</h2><p>This Oracle SQL tutorial started as a list of SQL tuning tips but that's of limited use on its own so we've expanded the tips to explain how and why they work to make this a more complete Oracle SQL tutorial.</p></article>]]></description>
+            <link>https://thegrid.ai/asktheoracle/oracle-sql-tutorial-a-few-hints-and-tips-on-how-to-optimiz/index.html</link>
+            <guid isPermaLink="false">5d2250b5-8fc1-4e0f-97b2-6b8e04a9c629</guid>
+            <pubDate>Thu, 28 Apr 2016 11:17:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is PL/SQL?]]></title>
             <description><![CDATA[<article><h1>What is PL/SQL?</h1><p>This is the first PL/SQL tutorial in the series and provides an overview of the language and its capabilities as well as links to enable you to explore further.</p></article>]]></description>
