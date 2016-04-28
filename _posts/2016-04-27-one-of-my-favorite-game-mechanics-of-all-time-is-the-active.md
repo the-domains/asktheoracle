@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "PL/SQL collections are very useful for modeling more complex or sophisticated data types such as the array, table or set types that exist in other languages. We've seen in previous tutorials that Oracle has 3 types of collections in PL/SQL"
-datePublished: '2016-04-28T09:45:32.598Z'
-dateModified: '2016-04-28T09:45:27.819Z'
+datePublished: '2016-04-28T10:10:53.021Z'
+dateModified: '2016-04-28T09:45:43.059Z'
 title: 'Multi Level PL/SQL Collections '
 author:
   - name: ''
